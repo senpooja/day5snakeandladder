@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\bin\Debug\net6.0\SnakeLadderSimulator.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\bin\Debug\net6.0\SnakeLadderSimulator.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\bin\Debug\net6.0\SnakeLadderSimulator.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\bin\Debug\net6.0\SnakeLadderSimulator.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\bin\Debug\net6.0\SnakeLadderSimulator.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\refint\SnakeLadderSimulator.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\SnakeLadderSimulator.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-7\obj\Debug\net6.0\ref\SnakeLadderSimulator.dll
