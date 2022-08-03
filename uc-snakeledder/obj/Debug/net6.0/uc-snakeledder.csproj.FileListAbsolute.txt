@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\bin\Debug\net6.0\uc-snakeledder.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\bin\Debug\net6.0\uc-snakeledder.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\bin\Debug\net6.0\uc-snakeledder.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\bin\Debug\net6.0\uc-snakeledder.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\bin\Debug\net6.0\uc-snakeledder.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\refint\uc-snakeledder.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\uc-snakeledder.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-snakeledder\obj\Debug\net6.0\ref\uc-snakeledder.dll
