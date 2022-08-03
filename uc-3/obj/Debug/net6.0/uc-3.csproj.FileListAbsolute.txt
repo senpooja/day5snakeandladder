@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\bin\Debug\net6.0\uc-3.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\bin\Debug\net6.0\uc-3.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\bin\Debug\net6.0\uc-3.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\bin\Debug\net6.0\uc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\bin\Debug\net6.0\uc-3.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\refint\uc-3.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\uc-3.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\uc-snakeledder 1\uc-3\obj\Debug\net6.0\ref\uc-3.dll
